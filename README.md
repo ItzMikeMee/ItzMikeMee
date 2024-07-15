@@ -1,8 +1,8 @@
 # Hello, I'm Mike
-### I'm a 3D Modeler/Animator
+### I'm a 3D Modeler&Animator
 
 <h4 style="padding: 0; margin: 0;">
-Low/High Poly
+Low/High Poly Modeler!
 <br/>
 R6/15 Animator
 <br/>

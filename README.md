@@ -35,10 +35,15 @@ VFX & GFX Artist
 <a href="#" style="cursor: none; user-select: none; user-event: none;" align="center">
 <div style="display: flex; flex-direction: column; width: max-content;">
     <div style="display: flex; flex-direction: row">
-	      <img
+	<img
 	        height="217"
             src="https://lanyard.cnrad.dev/api/1146988475879542885"
         />
     </div>
 </div>
 </a>
+
+#
+<div style="display: flex; flex-direction: column; width: max-content;">
+    <p style="text-align: center; width: max-content;">Made by <a href="https://www.github.com/Nuggew">Nuggew</a></p>
+</div>

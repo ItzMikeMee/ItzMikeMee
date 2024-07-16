@@ -1,12 +1,14 @@
-# Hello, I'm Mike
-### I'm a 3D Modeler&Animator
+# Hello, I'm Mike 👋😄
+### I'm a 3D Modeler & An Animator 🎥
 
 <h4 style="padding: 0; margin: 0;">
 Low/High Poly Modeler!
 <br/>
-R6/15 Animator
+R6 & R15 Animator
 <br/>
 VFX & GFX Artist
+<br/>
+A Lua scripter (Kinda)🙂
 </h4>
 
 ## Tools I use in my daily routine:

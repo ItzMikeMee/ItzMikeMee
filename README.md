@@ -2,25 +2,20 @@
 ### I'm a 3D Modeler, Animator & a Programmer!
 
 <h4 style="padding: 0; margin: 0;">
-Low/High Poly Modeler!
+Low/High Poly Modeler✨
 <br/>
-R6 & R15 Animator
+3D Animator🎥
 <br/>
-VFX & GFX Artist
+VFX & GFX Artist🔥
 <br/>
-A Lua scripter (Kinda)🙂
+A Lua & HTML scripter😎
 </h4>
 
 ## Tools I use in my daily routine:
 <div style="display: inline_block"> <!-- Put here what you use in that same scheme i added -->
     <a href="#"><img align="center" alt="ROBLOX Studio" src="https://img.shields.io/badge/Roblox_Studio-2596BE?style=for-the-badge&logo=robloxstudio&logoColor=white" /></a>
     <a href="#"><img align="center" alt="Blender 3D" src="https://img.shields.io/badge/Blender-EC7404?style=for-the-badge&logo=blender&logoColor=white" /></a>
-	<a href="#"><img align="center" alt="VS Code" src="https://camo.githubusercontent.com/25d07ba4220a3fcadb4af12394d157494ec298dec4ecd86321961427ea18c9e8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" /></a>
-</div>
-
-## Studying:
-<div style="display: inline_block"> <!-- Put here what you're learning in that same scheme i added -->
-    <a href="#"><img align="center" alt="LUA" src="https://img.shields.io/badge/LUA-00007E?style=for-the-badge&logo=lua&logoColor=white" /></a>
+	<a href="#"><img align="center" alt="VS Code" src="https://camo.githubusercontent.com/f39f203ca1defeb47e3505ef9044d3303c038c60de7e67f6c229992602e59128/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667"  src="https://camo.githubusercontent.com/25d07ba4220a3fcadb4af12394d157494ec298dec4ecd86321961427ea18c9e8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" /></a>
 </div>
 
 ## Contact me!
